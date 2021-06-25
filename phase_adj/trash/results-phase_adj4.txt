@@ -1,0 +1,40 @@
+Working on dataset garrido of size 1022
+GPU phase_adj took 6.067959 seconds
+Found (-17, -90, 157) with entropy 6.255618 (6.253969)
+CPU LSE phase_adj took 0.023959 seconds, using pivot 157
+Found (0.260644, -0.262993, 157) with entropy 6.267943
+CPU LSE phase_adj took 0.019122 seconds, using pivot 511
+Found (0.348469, -0.335124, 511) with entropy 6.267933
+
+Working on dataset glycine of size 2048
+GPU phase_adj took 23.232634 seconds
+Found (-69, -180, 375) with entropy 427.737457 (427.736818)
+CPU LSE phase_adj took 0.315653 seconds, using pivot 375
+Found (-68.631534, -179.185831, 375) with entropy 443.499558
+CPU LSE phase_adj took 0.345210 seconds, using pivot 1024
+Found (-11.479641, -175.600183, 1024) with entropy 520.626846
+
+Working on dataset simuladoc of size 2048
+GPU phase_adj took 23.348246 seconds
+Found (-93, -180, 123) with entropy 406.610138 (406.609670)
+CPU LSE phase_adj took 0.307562 seconds, using pivot 123
+Found (-93.023198, -179.927519, 123) with entropy 407.312579
+CPU LSE phase_adj took 0.338839 seconds, using pivot 1024
+Found (-14.398230, -178.292905, 1024) with entropy 424.745554
+
+Working on dataset simuladod of size 2048
+GPU phase_adj took 23.419950 seconds
+Found (-25, -180, 69) with entropy 482397.718750 (482398.207554)
+CPU LSE phase_adj took 0.344126 seconds, using pivot 69
+Found (-25.027988, -179.999875, 69) with entropy 482398.309678
+CPU LSE phase_adj took 0.326572 seconds, using pivot 1024
+Found (58.905495, -179.999976, 1024) with entropy 482398.145163
+
+Working on dataset edson of size 8000
+GPU phase_adj took 373.540034 seconds
+Found (-3, -39, 3628) with entropy 154704.875000 (154705.360882)
+CPU LSE phase_adj took 0.492578 seconds, using pivot 3628
+Found (-2.949750, -38.629406, 3628) with entropy 154704.167540
+CPU LSE phase_adj took 0.504291 seconds, using pivot 4000
+Found (-1.156327, -38.629589, 4000) with entropy 154704.167332
+

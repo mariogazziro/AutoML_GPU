@@ -1,0 +1,24 @@
+Working on dataset garrido of size 1022
+phase_adj took 6.101747 seconds
+GPU: (-17, -90, 157) -> 6.255618 (6.253969)
+LSE: (0.260644, -0.262993, 157) -> 6.267943
+
+Working on dataset glycine of size 2048
+phase_adj took 23.273306 seconds
+GPU: (-69, -180, 375) -> 427.737457 (427.736818)
+LSE: (-68.631534, -179.185831, 375) -> 443.499558
+
+Working on dataset simuladoc of size 2048
+phase_adj took 23.345765 seconds
+GPU: (-93, -180, 123) -> 406.610138 (406.609670)
+LSE: (-93.023198, -179.927519, 123) -> 407.312579
+
+Working on dataset simuladod of size 2048
+phase_adj took 23.368391 seconds
+GPU: (-25, -180, 69) -> 482397.718750 (482398.207554)
+LSE: (-25.027988, -179.999875, 69) -> 482398.309678
+
+Working on dataset edson of size 8000
+phase_adj took 373.397450 seconds
+GPU: (-3, -39, 3628) -> 154704.875000 (154705.360882)
+LSE: (-2.949750, -38.629406, 3628) -> 154704.167540

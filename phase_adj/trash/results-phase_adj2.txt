@@ -1,0 +1,25 @@
+Working on garrido of size 1022
+phase_adj took 6.044383 seconds
+GPU: (-17.000000, -90.000000, 157) -> 6.255618
+LSE: (0.260644, -0.262993, 157) -> 6.267943
+
+Working on glycine of size 2048
+phase_adj took 23.318458 seconds
+GPU: (-69.000000, -180.000000, 375) -> 427.737457
+LSE: (-68.631534, -179.185831, 375) -> 443.499558
+
+Working on simuladoc of size 2048
+phase_adj took 23.269392 seconds
+GPU: (-93.000000, -180.000000, 123) -> 406.610138
+LSE: (-93.023198, -179.927519, 123) -> 407.312579
+
+Working on simuladod of size 2048
+phase_adj took 23.299424 seconds
+GPU: (-25.000000, -180.000000, 69) -> 482397.718750
+LSE: (-25.027988, -179.999875, 69) -> 482398.309678
+
+Working on edson of size 8000
+phase_adj took 372.966585 seconds
+GPU: (-3.000000, -39.000000, 3628) -> 154704.875000
+LSE: (-2.949750, -38.629406, 3628) -> 154704.167540
+

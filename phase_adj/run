@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "dataset(size)	cpu_entropy	gpu_entropy	cpu_time	gpu_time	speedup"
+datasets=`h5dump fids.h5 | grep DATASET | sed -e 's/[^"]*"//' -e 's/".*//'`
+for dataset in $datasets; do
+	python phase_adj.py $dataset
+done

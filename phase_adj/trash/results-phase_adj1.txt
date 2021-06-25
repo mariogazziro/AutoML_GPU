@@ -1,0 +1,38 @@
+======== brute_force_phase_adjust ========|================= bfphase ================
+                                          |
+Working on dataset garrido of size 1022   | Working on dataset garrido of size 1022
+phase_adj took 30.118905 seconds          | phase_adj took 5.386777 seconds
+[6.255623]                                | [6.255618]
+[28]                                      | [17]
+[90]                                      | [90]
+[31]                                      | [156]
+                                          |
+Working on dataset glycine of size 2048   | Working on dataset glycine of size 2048
+phase_adj took 123.089390 seconds         | phase_adj took 24.972217 seconds
+[447.12775]                               | [447.12753]
+[64]                                      | [98]
+[179]                                     | [179]
+[427]                                     | [38]
+                                          |
+Working on dataset simuladoc of size 2048 | Working on dataset simuladoc of size 2048
+phase_adj took 123.610455 seconds         | phase_adj took 25.129369 seconds
+[416.71625]                               | [416.71616]
+[88]                                      | [45]
+[179]                                     | [179]
+[177]                                     | [669]
+                                          |
+Working on dataset simuladod of size 2048 | Working on dataset simuladod of size 2048
+phase_adj took 123.314289 seconds         | phase_adj took 25.093369 seconds
+[484047.9]                                | [484047.4]
+[23]                                      | [25]
+[179]                                     | [179]
+[85]                                      | [62]
+                                          |
+Working on dataset edson of size 8000     | Working on dataset edson of size 8000
+phase_adj took 1898.260183 seconds        | phase_adj took 388.242896 seconds
+[154705.33]                               | [154704.88]
+[20]                                      | [3]
+[39]                                      | [39]
+[137]                                     | [3627]
+                                          |
+=====================================================================================

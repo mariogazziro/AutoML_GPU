@@ -1,0 +1,7 @@
+#!/bin/bash
+for i in 1000 2000 4000 8000 16000 32000; do
+	./sparse_mat_cpu $i;
+done
+for i in 1000 2000 4000 8000 16000 32000; do
+	./sparse_mat_gpu $i;
+done

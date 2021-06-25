@@ -1,0 +1,9 @@
+CUDA NMR Phase Adjust
+
+The problem of phase adjustment in NMR spectroscopy signals did not have robust solutions until today,
+especially in the case of noisy signals. We present in this work a novel solution, which runs through the
+entire possible phase space using massively parallel processing of GPUs, determining the best set for the
+adjustment of these signals, faster than conventional CPUs. The speed-ups registered are at least ve
+times. Besides, we present a case study showing the robustness of the proposed method against minimum
+local situations during the search for the best solution. Finally, a Bland-Altman analysis was performed,
+validating the entropies calculated by CPU and GPU in a set of 16 experiments using 1H and 31P probes.
